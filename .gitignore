@@ -5,3 +5,4 @@ latex
 extra
 .DS_Store
 venv/
+images/*.png
